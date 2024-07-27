@@ -1,0 +1,1 @@
+Tutorial exercises here: [https://exercism.org/tracks/haskell/exercises](https://exercism.org/tracks/haskell/exercises)
