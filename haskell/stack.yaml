@@ -35,6 +35,8 @@ packages:
 - reverse-string
 - darts
 - space-age
+- pangram
+- bob
 # Dependency packages to be pulled from upstream that are not in the resolver.
 # These entries can reference officially published versions as well as
 # forks / in-progress versions pinned to a git hash. For example:
